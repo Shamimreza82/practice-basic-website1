@@ -85,3 +85,21 @@
 
 
 /* footer section */
+
+footer {
+    background-color: rgb(26, 26, 25);
+    margin-top: 60px;
+}
+
+.footer-contaier {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #FFF;
+    height: 400px;
+}
+
+.link-icon {
+    width:35px;
+    padding-left: 0 15px 0 0;
+}
