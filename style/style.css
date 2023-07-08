@@ -83,7 +83,6 @@
 }
 
 
-
 /* footer section */
 
 footer {
@@ -101,5 +100,28 @@ footer {
 
 .link-icon {
     width:35px;
-    padding-left: 0 15px 0 0;
+    padding: 7px 10px 0 0;
+  
+}
+
+.icon-text {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.btn-primary {
+    margin-top: 20px;
+    background-color: #FFF;
+    color: red;
+    font-weight: bold;
+}
+.btn-primary:hover {
+    background-color: #F15B22;
+    color: #FFF;
+}
+
+.input-2 {
+   padding: 10px 15px; 
+   border: 1px solid rgb(143, 142, 142);
+   background-color: black;
+   border-radius: 4px;
 }
