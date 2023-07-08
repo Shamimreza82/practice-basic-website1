@@ -1,3 +1,6 @@
+
+/* head section start */
+
 .Container {
     display: flex;
     justify-content: space-around;
@@ -15,10 +18,70 @@
     font-size: 50px; 
 }
 
+
 .btn-primary {
     border-radius: 5px;
     background: #F15B22;
     border: none;
     padding: 10px 25px;
+}
+
+/* main section-1 start */
+
+.section-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 150px;
+}
+
+.headh1-text {
+    font-size: 40px;
+}
+
+.img-section {
+    width: auto;
+}
+
+
+/* my plan section-1 start */
+
+.plans-icon {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 
 }
+
+.my-plan-contain {
+    font-weight: 800;
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 60px;
+}
+
+
+/* basic banner section-1 start */
+
+.basic-banner {
+    width: 1140px;
+    height: 300px;
+    background-color: antiquewhite;
+    background-image: url("/images/watch.png") ;
+    margin-top: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.basic-banner {
+    color: #FFF;
+    font-family: Work Sans;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: normal;
+    padding: 30px;
+}
+
+
+
+/* footer section */
